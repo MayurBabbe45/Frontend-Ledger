@@ -16,7 +16,7 @@ function generateIdempotencyKey() {
 
 // ─── API helpers (credentials: 'include' for HTTP-only cookie JWT) ────────────
 const API = {
-  base: "/api",
+  base: "https://backend-ledger-af1t.onrender.com/api",
   req: async (path, options = {}) => {
     const res = await fetch(`${API.base}${path}`, {
       credentials: "include",
