@@ -21,7 +21,9 @@ The official frontend UI for the LedgerVault banking system. Built with React an
 
 ## 📷 Screenshots
 
-*(Pro-tip: Add 2-3 screenshots here! One of the Dashboard, one of the Transfer Modal, and one of the Login screen.)*
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ## ⚙️ Local Setup & Installation
 
