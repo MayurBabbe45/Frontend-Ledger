@@ -1,11 +1,3 @@
-Congratulations on getting the backend fully stable and moving on to the frontend deployment! That is a massive milestone.
-
-Since this is the visual face of your portfolio project, the README needs to look just as polished as your code. Recruiters and hiring managers love a well-documented frontend that highlights the User Experience (UX) decisions you made.
-
-Here is a stunning, recruiter-ready `README.md` for your React frontend.
-
----
-
 # LedgerVault - Frontend Application
 
 The official frontend UI for the LedgerVault banking system. Built with React and Tailwind CSS, this application provides a sleek, modern, and highly responsive user interface for secure financial management. It communicates seamlessly with the LedgerVault backend API to handle real-time balances, account creation, and secure money transfers.
